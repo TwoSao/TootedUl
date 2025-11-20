@@ -1,4 +1,4 @@
-Что бы начать работу нужно в smss создать бд toodeDB и в ней создать 2 таблицы
+Et alustada tööd, tuleb SSMS-is luua andmebaas toodeDB ja selle sees kaks tabelit:
 CREATE TABLE [dbo].[Kategooria] 
 (
     [Id] INT IDENTITY(1, 1) NOT NULL,
@@ -19,4 +19,4 @@ CREATE TABLE [dbo].[Toodetabel]
     CONSTRAINT [PK_Toodetabel] PRIMARY KEY CLUSTERED ([Id] ASC)
 );
 
-подключение: (localdb)\MSSQLLocalDB
+Ühendus: (localdb)\MSSQLLocalDB
