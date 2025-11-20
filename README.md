@@ -257,4 +257,5 @@
 - Современный плоский дизайн / Kaasaegne lame disain
 - Отзывчивые элементы управления / Reageerivad juhtimiselemendid
 - Интуитивная навигация / Intuitiivne navigeerimine
-- Многоязычная поддержка / Mitmekeelne tugi
+- Многоязычная поддержка / Mitmekeelne tugi#   T o o t e d U l  
+ 
